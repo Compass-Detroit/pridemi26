@@ -79,5 +79,11 @@
   "overrides": {
     "@babel/core": "^7.29.0"
   },
-  "description": "Detroit Pride Innovation Summit 2026 website"
+  "description": "Detroit Pride Innovation Summit 2026 website",
+  "allowScripts": {
+    "@vercel/speed-insights@1.2.0": true,
+    "chromedriver@151.0.5": true,
+    "esbuild@0.28.1": true,
+    "fsevents@2.3.3": true
+  }
 }
